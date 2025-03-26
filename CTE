@@ -6,7 +6,6 @@ This SQL query calculates the average amount paid by the top 5 customers from th
 
 ## SQL Query
 
-```sql
 WITH top_cities AS (
     SELECT city.city
     FROM customer
