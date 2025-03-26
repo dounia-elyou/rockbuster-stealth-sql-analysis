@@ -33,10 +33,10 @@ Through this project, I developed expertise in:
 ## Presentation
 
 You can view my final project presentation here:  
-[Click here to view the PDF presentation](https://github.com/dounia-elyou/rockbuster-stealth-sql-analysis/blob/main/Rockbuster%20Stealth%20Data%20Analysis%20Project_%20Ex%203.10%20Dounia.pdf)
+[📄 Click here to view the PDF presentation](https://github.com/dounia-elyou/rockbuster-stealth-sql-analysis/blob/main/Rockbuster%20Stealth%20Data%20Analysis%20Project_%20Ex%203.10%20Dounia.pdf)
 
 ## Project Results in Tableau
 
-📊 View my Tableau dashboard with key insights https://public.tableau.com/app/profile/dounia.el.youssoufi/viz/RockbusterStealthProjectVisualizations/Story1?publish=yes
+<a href="https://public.tableau.com/app/profile/dounia.el.youssoufi/viz/RockbusterStealthProjectVisualizations/Story1?publish=yes" target="_blank">📊 View my Tableau dashboard with key insights</a>
 
 This project not only demonstrates my SQL proficiency but also highlights my ability to transform raw data into meaningful business recommendations.
