@@ -37,6 +37,6 @@ You can view my final project presentation here:
 
 ## Project Results in Tableau
 
-📊 [View my Tableau dashboard with key insights](https://public.tableau.com/app/profile/dounia.el.youssoufi/viz/RockbusterStealthProjectVisualizations/Story1?publish=yes) (opens in a new tab)
+📊 [View my Tableau dashboard with key insights](https://public.tableau.com/app/profile/dounia.el.youssoufi/viz/RockbusterStealthProjectVisualizations/Story1?publish=yes)
 
 This project not only demonstrates my SQL proficiency but also highlights my ability to transform raw data into meaningful business recommendations.
