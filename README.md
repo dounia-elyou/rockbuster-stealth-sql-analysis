@@ -33,7 +33,7 @@ Through this project, I developed expertise in:
 ## Presentation
 
 You can view my final project presentation here:  
-[Click here to view the PDF presentation]([https://raw.githubusercontent.com/username/repository-name/main/presentation.pdf](https://github.com/dounia-elyou/rockbuster-stealth-sql-analysis/blob/main/Rockbuster%20Stealth%20Data%20Analysis%20Project_%20Ex%203.10%20Dounia.pdf))
+[Click here to view the PDF presentation](https://github.com/dounia-elyou/rockbuster-stealth-sql-analysis/blob/main/Rockbuster%20Stealth%20Data%20Analysis%20Project_%20Ex%203.10%20Dounia.pdf)
 
 ## Project Results in Tableau
 
